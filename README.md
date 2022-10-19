@@ -1,2 +1,2 @@
-# scroll
+# Scroll
 Parallax scrolling website
